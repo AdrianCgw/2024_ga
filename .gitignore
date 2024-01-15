@@ -1,3 +1,5 @@
 *.csv
 *.pdf
-part-1-dataset/*
+!data/train.csv
+!part-1-dataset/field_names.txt
+!part-1-dataset/breast-cancer.csv
